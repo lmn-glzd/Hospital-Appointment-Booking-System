@@ -1,0 +1,3 @@
+Id;Name;Surname;Username;Email;Password;Phone;Age;Gender;isDoctor;personalInfo;ReminderEmail;BookingEmail
+0;Leman;Guluzada;lguluzada4602@ada.edu.az;lguluzada4602@ada.edu.az;Leman1234;346565;22;female;true;Iamdoctor
+1;Zumrud;Memmedli;zumrudmemmedli8778@ada.edu.az;zumrudmemmedli8778@ada.edu.az;Zumrud1234;346565;22;female;false;patient
